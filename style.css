@@ -1,0 +1,13 @@
+body {
+    background-color: gold;
+}
+@media screen and (max-width: 1200px) {
+    body{
+        background-color:darkorange;
+    }
+}    
+@media screen and (max-width: 600px) {
+   body {
+    background-color:firebrick;
+    }
+}
